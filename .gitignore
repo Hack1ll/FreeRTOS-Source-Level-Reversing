@@ -1,0 +1,17 @@
+.DS_Store
+.cache/
+.codex/
+.agents/
+
+# The upstream FreeRTOS source is intentionally not committed here.
+# Clone it locally only when you want source-reference checks.
+FreeRTOS-Kernel/
+
+# Build and analysis outputs should stay local unless explicitly documented.
+build/
+cmake-build-*/
+*.elf
+*.bin
+*.map
+*.o
+*.a
