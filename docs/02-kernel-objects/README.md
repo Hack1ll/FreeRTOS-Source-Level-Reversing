@@ -13,6 +13,4 @@ The order in this part is:
 2. [Task Control Block](tcb.md)
 3. [Queue object](queue.md)
 
-이 세 가지를 읽고 나면 뒤쪽의 scheduler와 synchronization primitive가 훨씬
-덜 마술처럼 보입니다.
 
